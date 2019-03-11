@@ -1,0 +1,89 @@
+.main-header{
+  background:url(https://images.wallpaperscraft.com/image/house_of_stark_game_of_thrones_logo_emblem_wolf_94583_1920x1080.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 700;
+
+}
+
+h5{
+      font-family: 'Montserrat', sans-serif;
+      font-size:20px;
+}
+#block{
+  text-align:center;
+  color:white;
+      font-family: 'Montserrat', sans-serif;
+      padding:50px;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    line-height: 1.42857143;
+}
+div{
+  padding:0px;
+  margin:0px;
+}
+#block1{
+
+      font-family: 'Montserrat', sans-serif;
+      padding:50px;
+      color:black;
+}
+#block2{
+  color:white;
+      font-family: 'Montserrat', sans-serif;
+      padding:50px;
+}
+#hob{
+  padding:20px;
+}
+#block3{
+  color:white;
+      font-family: 'Montserrat', sans-serif;
+      padding:10px;
+}
+h4{
+  font-size: 25px;
+}
+h2{
+  font-size:20px;
+  font-weight:bold;
+}
+/* h1{
+  font-size:20px;
+  font-weight:bold;
+} */
+span{
+  font-size:18px;
+  font-weight:bold;
+}
+.social-icons a{
+  padding:10px;
+}
+.page-footer{
+  padding:30px;
+}
+#hobb{
+  text-decoration:underline overline
+}
+#underline2{
+text-decoration:underline overline
+}
+#underline1{
+text-decoration:underline;
+}
+.li li{
+  padding:5px;
+}
+img{
+
+  border-radius: 10000px;
+      height: 100px;
+      width:100px;
+
+}
+.footer{
+  font-size: 13px;
+}
